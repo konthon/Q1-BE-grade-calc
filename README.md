@@ -1,4 +1,4 @@
-# Q1-BE-grade-calc
+# Q1 - Backend - Grade Calculator
 
 ## Technology
 Node.js - Express.js
